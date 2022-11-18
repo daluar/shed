@@ -1,4 +1,4 @@
-"""Shed canoncalises your code.
+"""Shed canonicalises your code.
 
 It works on all Python files in the current git repository; or you can
 pass the names of specific files to format instead.
